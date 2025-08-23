@@ -26,6 +26,7 @@
 - Exploring Deep Learning with TensorFlow and PyTorch
 - Working on small Streamlit-based AI apps
 - Learning how Transformers like BERT & GPT work
+- Currently, I am working on LangChain or intelligent building  chatbots.
 
 ---
 
