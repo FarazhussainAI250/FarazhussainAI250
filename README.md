@@ -62,8 +62,9 @@
 
 ### 🚀 Featured Projects
 
-🌟 [SmartShopX](https://github.com/FarazHussainAI250/SmartShopX)  
-💡 A full shop management app with real-time billing, receipt generation, and customer database.
+🌟 [Groq Chatbot with Memory](https://github.com/FarazHussainAI250/Groq Chatbot with Memory)  
+💡 A conversational AI built using LangChain and Streamlit.
+   Supports context retention with ConversationBufferMemory for human-like interactions.
 
 🌟 [Iris Flower Classifier](https://github.com/FarazHussainAI250/Iris_Model)  
 📊 A simple but complete ML app using Streamlit + scikit-learn.
