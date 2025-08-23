@@ -62,9 +62,10 @@
 
 ### 🚀 Featured Projects
 
-🌟 [Groq Chatbot with Memory](https://github.com/FarazHussainAI250/Groq Chatbot with Memory)  
-💡 A conversational AI built using LangChain and Streamlit.
-   Supports context retention with ConversationBufferMemory for human-like interactions.
+🌟 [Groq Chatbot with Memory](https://github.com/FarazHussainAI250/Groq-Chatbot)  
+💡 A conversational AI built using LangChain and Streamlit.  
+   Supports context retention with ConversationBufferMemory for human-like interactions.  
+
 
 🌟 [Iris Flower Classifier](https://github.com/FarazHussainAI250/Iris_Model)  
 📊 A simple but complete ML app using Streamlit + scikit-learn.
